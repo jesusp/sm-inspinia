@@ -6,7 +6,7 @@ Add it as a dependency in your bower.json file as
 
 ```json
     "dependencies": {
-        "lkmx-inspinia": "git@git.lkmx.io:look-and-feel/inspinia.git#^0.2.2",
+        "sm-inspinia": "git@github.com:look-and-feel/inspinia.git#^0.2.2",
     }
 ```
 
