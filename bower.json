@@ -1,0 +1,46 @@
+{
+  "name": "sm-inspinia",
+  "version": "0.4.5",
+  "authors": [
+    "Jesus Peña <me@jesusp.net>"
+  ],
+  "description": "JP private package to use the (purchased) Inspinia dashboard theme and shit",
+  "main": [
+    "assets/scss/_inspinia.scss",
+    "dist/inspinia.js"
+  ],
+  "keywords": [
+    "dashboard",
+    "bootstrap",
+    "inspinia"
+  ],
+  "license": "Commercial",
+  "homepage": "https://jesusp.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "angular": "^1.6.x",
+    "bootstrap-sass": "^3.3.7",
+    "metisMenu": "^2.7.x",
+    "jquery-slimscroll": "^1.3.8",
+    "animate.css": "^3.5.2"
+  },
+  "resolutions": {
+    "jquery": "^3.1.1",
+    "angular": "^1.6.x"
+  },
+  "overrides": {
+    "metisMenu": {
+      "dependencies": {
+        "jquery": "^3.1.1"
+      }
+    }
+  }
+
+}
