@@ -48,7 +48,7 @@
     "tag": "0.4.5",
     "commit": "358588e6310e1ef10b48cb3692e703a607b7c2fc"
   },
-  "_source": "git@github.com:jesusp/sm-inspinia.git",
+  "_source": "https://github.com/jesusp/sm-inspinia.git",
   "_target": "0.4.5",
-  "_originalSource": "git@github.com:jesusp/sm-inspinia.git"
+  "_originalSource": "https://github.com/jesusp/sm-inspinia.git"
 }
